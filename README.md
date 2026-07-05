@@ -209,11 +209,6 @@ curl https://YOUR_USERNAME.pythonanywhere.com/auth/register \
   -d '{"username":"test","email":"test@test.com","password":"testpass"}'
 ```
 
-## Suggested GitHub topics
-
-`python` `flask` `rest-api` `jwt` `flask-sqlalchemy` `marshmallow`
-`sqlite` `task-management` `pythonanywhere` `bcrypt` `pytest`
-`internship-project`
 
 ## License
 
